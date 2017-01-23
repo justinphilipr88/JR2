@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
+#slider-1 P {
+  font-size: 20px;
+}
+#slider-1 H2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
