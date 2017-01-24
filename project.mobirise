@@ -24,7 +24,8 @@
     "uniqCompNum": 9,
     "versionPublish": "3.11",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Home4": {
